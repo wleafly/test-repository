@@ -10,8 +10,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        System.out.println("1234");
-        System.out.println("12345");
+
         int i =1;
+        String str ="1233";
+
     }
 }
