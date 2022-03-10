@@ -14,7 +14,6 @@ public class Main extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         int i =1;
-        String str ="123213123";
-
+        String str ="12321312";
     }
 }
